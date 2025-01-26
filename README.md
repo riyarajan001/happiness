@@ -1,14 +1,12 @@
-# [Project Name] 🎯
+# [SwapNAGAVALLI] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [PURSUIT OF HAPPINESS]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Riya Rajan] - MES ASMABI COLLEGE,VEMBALLUR
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -17,23 +15,21 @@
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+This project is a blend of AI, web development, and user experience design. I’ve created a Google Colab file capable of identifying age, emotion, race, and gender using image analysis. The goal is to integrate this functionality into a website where users can upload images for analysis. This allows the AI to provide insights in a user-friendly way. While it’s a challenging task, it’s an opportunity to combine technical skills with practical application. By approaching it step by step, I aim to create a system that is both functional and intuitive. It’s a learning experience, but it aligns with modern technological trends, making it a valuable project.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+I’m working through the project step by step. First, I created a Google Colab file that uses AI to detect age, emotion, race, and gender from images. That’s the main brain of the system. Next, I designed a clean and simple website where users can upload their images. Now, I’m figuring out how to connect the Colab file to the website, so it all works together smoothly. I’ll probably use something like APIs to make that happen. It’s a process of testing and tweaking along the way to make sure everything runs well and looks good. It’s challenging but really exciting to see it come together piece by piece!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Google Colab 
+VS Code 
+HTML, CSS, JavaScript 
+Browser 
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- laptop,internet connection
 
 ### Implementation
 For Software:
