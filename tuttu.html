@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SwapNAGAVALLI - Face Identification Service</title>
+  <link rel="stylesheet" href="tuttu.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="logo">SwapNAGAVALLI</div>
+      <nav class="nav">
+        <ul>
+          <li><a href="thakkudu.html">Home</a></li>
+          <li><a href="#how-it-works">How It Works</a></li>
+          <li><a href="https://cybercrime.gov.in/" target="_blank">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Empowering Society Through Face Identification</h1>
+      <p>Detect gender, race, and age with advanced AI technology for crime prevention and societal safety.</p>
+      <a href="thakkudu.html" class="btn">Get Started</a>
+    </div>
+  </section>
+
+  <section class="how-it-works" id="how-it-works">
+    <div class="container">
+      <h2>How It Works</h2>
+      <div class="steps">
+        <div class="step" id="upload-section">
+            <h3>01</h3>
+            <p>Upload an image for analysis.</p>
+            <form action="/upload" method="post" enctype="multipart/form-data">
+              <input type="file" name="image" id="image-upload" accept="image/*">
+              <button type="submit" class="upload-btn">Upload</button>
+            </form>
+          </div>
+          
+        <div class="step" id="ai-detection-section">
+          <h3>02</h3>
+          <p>Let our AI system detect key facial attributes.</p>
+        </div>
+        <div class="step" id="detailed-report-section">
+          <h3>03</h3>
+          <p>Receive a detailed report for societal contributions.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

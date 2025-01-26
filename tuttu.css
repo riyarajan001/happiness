@@ -1,0 +1,186 @@
+/* style.css */
+
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #a7a5c6;
+  padding: 20px 0;
+}
+
+.logo {
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav ul li {
+  margin: 0 15px;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.1rem;
+}
+
+.hero {
+  background-image: url('https://i.ibb.co/68W5knf/mmm.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.hero-content {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin: 15px 0;
+}
+
+.btn {
+  background-color: #66ced6;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+}
+
+.how-it-works {
+  background-color: #8797b2;
+  padding: 50px 0;
+  color: white;
+  text-align: center;
+}
+
+.how-it-works .steps {
+  display: flex;
+  justify-content: space-around;
+}
+
+#upload-section {
+    background-image: url("https://i.ibb.co/wJnLskh/thenga.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff; /* Adjust text color for better contrast */
+  }
+  
+  #upload-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #upload-section p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  #image-upload {
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .upload-btn {
+    padding: 10px 20px;
+    background-color: #007ea7; /* Match your color palette */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upload-btn:hover {
+    background-color: #005f7f;
+  }
+  
+
+.step {
+  background-color: #6d8a96;
+  padding: 20px;
+  border-radius: 10px;
+  width: 25%;
+}
+
+.step h3 {
+  font-size: 2rem;
+  color: #5d707f;
+}
+
+.step p {
+  font-size: 1.1rem;
+}
+
+#ai-detection-section {
+    background-image: url("https://i.ibb.co/kGPb4Kw/mone.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff; /* Adjust text color for better contrast */
+  }
+  
+  #ai-detection-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #ai-detection-section p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  #detailed-report-section {
+    background-image: url("https://i.ibb.co/Kx3Tjb6/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff; /* Adjust text color for better contrast */
+  }
+  
+  #detailed-report-section h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  #detailed-report-section p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
