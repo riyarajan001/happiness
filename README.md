@@ -9,10 +9,11 @@
 - Member 1: [Riya Rajan] - MES ASMABI COLLEGE,VEMBALLUR
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+google colab
 
 ### Project Description
-[2-3 lines about what your project does]
+Empowering Society Through Face Identification
+Detect gender, race, and age with advanced AI technology for crime prevention and societal safety.
 
 ### The Problem statement
 This project is a blend of AI, web development, and user experience design. I’ve created a Google Colab file capable of identifying age, emotion, race, and gender using image analysis. The goal is to integrate this functionality into a website where users can upload images for analysis. This allows the AI to provide insights in a user-friendly way. While it’s a challenging task, it’s an opportunity to combine technical skills with practical application. By approaching it step by step, I aim to create a system that is both functional and intuitive. It’s a learning experience, but it aligns with modern technological trends, making it a valuable project.
